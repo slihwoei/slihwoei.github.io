@@ -1,7 +1,6 @@
 #### Technical Skills: Python, SQL, R, Javascript, VBA
-<br>
+![Bike Study](/assets/img/bike_study.jpeg)
 
-<div align="center">
   <a href="chijiokeokorji@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -14,9 +13,6 @@
   <a href="https://codepen.io/chijiokeokorji" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
-</div>
-
-<hr>
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
