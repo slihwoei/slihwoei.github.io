@@ -2,4 +2,6 @@ title: Lih Woei Siow
 #logo: /assets/img/headshot_circle.png
 description: An MSc Actuarial Management with Data Science student at Heriot-Watt University, with a strong interest in risk modeling, financial forecasting, and data science applications in insurance and pensions.
 #show_downloads: true
-theme: jekyll-remote-theme
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme 
