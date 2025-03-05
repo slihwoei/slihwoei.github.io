@@ -17,27 +17,27 @@
 ## 🛠 **Tech Stack**
 <p align="left">
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python - Data Science & Actuarial Modelling"/>
   </a> 
   <!-- R -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" title="R">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" title="R - Statistical Computing & Data Visualization"/>
   </a>
   <!-- VBA -->
-  <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer">
+  <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer" title="VBA">
     <img src="https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="VBA" title="VBA - Excel Automation & Financial Modelling"/>
   </a>
   <!-- FoxPro -->
-  <a href="https://en.wikipedia.org/wiki/FoxPro" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/FoxPro" target="_blank" rel="noreferrer" title="FoxPro">
     <img src="https://img.shields.io/badge/-FoxPro-FF6600?style=flat-square&logo=database&logoColor=white" alt="FoxPro" title="FoxPro - Actuarial Data Processing"/>
   </a>
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript - Web Development & Automation"/>
   </a>
   <!-- SQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="SQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" title="SQL - Database Management & Querying"/>
   </a>
 </p>
