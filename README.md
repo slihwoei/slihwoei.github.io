@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lih Woei Siow</h1>
+<h1 align="center">Hi 👋, I'm Lih Woei</h1>
 <h3 align="center">🎓 MSc Actuarial Management with Data Science | Heriot-Watt University</h3>
 
 - 📊 Passionate about **risk modelling, financial forecasting, and machine learning in insurance & pensions**  
