@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lih Woei</h1>
-<h3 align="center">🎓 MSc Actuarial Management with Data Science | Heriot-Watt University</h3>
+<h3 align="center">🎓 MSc Actuarial Management with Data Science </h3>
 
 - 📊 Passionate about **risk modelling, financial forecasting, and machine learning in insurance & pensions**  
 - 💼 Previous **Actuarial & Strategic Development Intern** at **Hong Leong Assurance Berhad**  
