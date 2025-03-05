@@ -9,7 +9,7 @@
 ## 🔥 Featured Projects
 🔹 **[Inflation Risk Modelling](#)** – Forecasting inflation using **ARIMA, GARCH, and stochastic volatility models**.  
 🔹 **[Economic Scenario Simulation](#)** – Analysing **market-implied inflation curves vs. realized inflation**.  
-🔹 **[Insurance Risk Analytics](#)** – Predicting claim frequencies using **PCA, regression, and deep learning**.  
+🔹 **[Insurance Risk Analytics](https://github.com/slihwoei/Insurance-Risk-Analytics)** – Predicting claim frequencies using **PCA, regression, and deep learning**.  
 
 *(🚀 Click on the links to explore the projects once uploaded!)*  
 
