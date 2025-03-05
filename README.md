@@ -25,13 +25,13 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
-  <!-- VBA (Using Microsoft Office logo) -->
+  <!-- VBA (Using Text Representation) -->
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Microsoft_Office_Excel_%282019-present%29.svg" alt="VBA" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="VBA"/>
   </a>
-  <!-- FoxPro (Using a database icon as placeholder) -->
+  <!-- FoxPro (Using Text Representation Instead of Image) -->
   <a href="https://en.wikipedia.org/wiki/FoxPro" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Database-icon.svg" alt="FoxPro" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-FoxPro-FF6600?style=flat-square&logo=database&logoColor=white" alt="FoxPro"/>
   </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
