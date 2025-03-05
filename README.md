@@ -9,7 +9,7 @@
 ## 🔥 Featured Projects
 🔹 **[Forecasting for Risk Modelling](https://github.com/slihwoei/Risk-Modelling)** – Forecasting inflation using **ARIMA models, ACF/PACF analysis, and uncertainty quantification**.  
 🔹 **[Insurance Risk Analytics](https://github.com/slihwoei/Insurance-Risk-Analytics)** – Predicting claim frequencies using **PCA, regression, and deep learning**.  
-🔹 **[for Risk Prediction](https://github.com/slihwoei/Risk-Prediction)** – Implemented **Perceptron, Decision Trees, KNN, and Neural Networks** to analyze risk-based classification problems, fine-tuning models for **optimal predictive accuracy**. Key takeaways include **feature engineering, hyperparameter tuning, and model evaluation**, which are applicable to **economic risk modelling and actuarial science**.  
+🔹 **[for Risk Prediction](https://github.com/slihwoei/Risk-Prediction)** – Implemented **Perceptron, Decision Trees, KNN, and Neural Networks** to analyze risk-based classification problems, fine-tuning models for **optimal predictive accuracy**.
 
 *(🚀 Click on the links to explore the projects once uploaded!)*  
 
